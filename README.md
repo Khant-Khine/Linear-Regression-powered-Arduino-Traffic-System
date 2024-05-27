@@ -44,3 +44,5 @@ Python
   </li>
 </ol>
 
+In addition, we will need to install Python IDLE to run the Python files. You can find the link <a href="https://www.python.org/downloads/">here</a>.
+
