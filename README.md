@@ -37,6 +37,9 @@ Python
       <li>
         <a href="https://www.amazon.com/Resistors-Assortment-Tolerance-Excellently-Breadboards/dp/B07D2Z45CG/ref=sr_1_3?crid=HVZ7MF2HYZ48&dib=eyJ2IjoiMSJ9.NkKUS8ov2i3GlBJLPLMMHxZ9Q0psaPXkJQdAAbDEu3Xvqn_2_5a1KLkVUcKNSCmVywiPR-9bcmGI-QbR7JHrIL7XKWFfNHluUqIr_zBHzUfCTM0l98KgN1h06mLgwMzPJchhbsJVoplyDk89IboM16xaVGHA1Dgea768HupZKXv9xmN1flPdSTRq6irSuyUdk259XjwRJuomsplNw2XdI8ESU6JF73ythoQHTA_HIr4._iicuXApAkztkvDy8owN4ImVy5ZUfFEpMKf-psij17g&dib_tag=se&keywords=arduino+resistors&qid=1716771842&sprefix=arduino+resistors%2Caps%2C109&sr=8-3">Resistors</a>
       </li>
+      <li>
+        <a href="https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3?crid=22L7ZG39IF9BB&dib=eyJ2IjoiMSJ9.tjHxIQLJsk16_0YVtUGN6aqwkJL6hCuidHoQKI-5vjtAbcUgEXc1QlyA-u9wgMq1wuzWBSEktVpkES_WXYoLPKRPeoMZ_ocMmyMZL_sAF84FFbZk8OarpZdLajR7eha1KoReeCWebPvBNv8hagoolVYMz6imh2GBju0rQ8QLSeyEGFQE3olMW6EqxuKdR_hIx4MhjoehNI22LmQq7FYTAxrBJJ_QlHhBXnhGHD9UCZOjtee6UPo-YzjBOFwrYXAnypPAtpI1hQSLdbE84a0u6ISHnYanqEkiDLU1S_WCl_k.jAdH5ExcokVXXo2SExEjZaqlWRyIHHUh5MycKXGlN3M&dib_tag=se&keywords=arduino+jumper+wires&qid=1716771996&s=electronics&sprefix=arduino+jumper+wires%2Celectronics%2C103&sr=1-3">Jumper Wires</a>
+      </li>
     </ul>
   </li>
 </ol>
