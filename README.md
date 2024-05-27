@@ -34,6 +34,9 @@ Python
       <li>
         <a href="https://www.amazon.com/MCIGICM-Circuit-Assorted-Science-Experiment/dp/B07PG84V17/ref=sr_1_3?dib=eyJ2IjoiMSJ9.b7ufUOS8MkW6Hm7aEmixGNbvN1ezApUaqucbPDD4HeBIzkA25YUIp5ZJJtzq8H9E9bTt3kPL8sVLBKUkVO8OdIYjwy73Q2Wu_cA3pTsKAZRSkMsvVRVd72OEFWMeK2EZiuMQ9TjT3A6DC63Unc4hQ5gkXPYISbbpKzKYiwy_E9yCHqWiUMTyWRbTZzIWk0hSPkRury-qObKYuiLQHOty-nGZwNI6WtHQo45LcWqt0Lo.UoAm4TrwEVEGWTLQbBMnPAa8sU4yNN58YdN0Nq0zAt0&dib_tag=se&keywords=led%2Barduino&qid=1716771681&sr=8-3&th=1">LEDs</a>
       </li>
+      <li>
+        <a href="https://www.amazon.com/Resistors-Assortment-Tolerance-Excellently-Breadboards/dp/B07D2Z45CG/ref=sr_1_3?crid=HVZ7MF2HYZ48&dib=eyJ2IjoiMSJ9.NkKUS8ov2i3GlBJLPLMMHxZ9Q0psaPXkJQdAAbDEu3Xvqn_2_5a1KLkVUcKNSCmVywiPR-9bcmGI-QbR7JHrIL7XKWFfNHluUqIr_zBHzUfCTM0l98KgN1h06mLgwMzPJchhbsJVoplyDk89IboM16xaVGHA1Dgea768HupZKXv9xmN1flPdSTRq6irSuyUdk259XjwRJuomsplNw2XdI8ESU6JF73ythoQHTA_HIr4._iicuXApAkztkvDy8owN4ImVy5ZUfFEpMKf-psij17g&dib_tag=se&keywords=arduino+resistors&qid=1716771842&sprefix=arduino+resistors%2Caps%2C109&sr=8-3">Resistors</a>
+      </li>
     </ul>
   </li>
 </ol>
