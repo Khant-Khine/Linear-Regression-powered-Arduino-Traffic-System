@@ -48,5 +48,6 @@ In addition, we will need to install Python IDLE to run the Python files. You ca
 ## Hardware Assembly
 ## Uploading the Arduino code to Hardware
 ## How to operate the Python code
+## Streamlit on Python
 
 
