@@ -50,11 +50,15 @@ In addition, we will need to install Python IDLE to run the Python files. You ca
   <li>Arduino Circuit Design</li>
   <li>Assembling the circuit</li>
 </ol>
+
 ## Uploading the Arduino code to Hardware
 <ol>
   <li>Verifying the Program</li>
+  <li>Uploading the Program</li>
 </ol>
+
 ## How to operate the Python code
+
 ## Streamlit on Python
 
 
