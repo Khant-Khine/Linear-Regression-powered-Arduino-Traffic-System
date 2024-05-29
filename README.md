@@ -46,6 +46,9 @@ Python
 
 In addition, we will need to install Python IDLE to run the Python files. You can find the link <a href="https://www.python.org/downloads/">here</a>.
 ## Hardware Assembly
+<ul>
+  <li>Arduino Circuit Design</li>
+</ul>
 ## Uploading the Arduino code to Hardware
 ## How to operate the Python code
 ## Streamlit on Python
