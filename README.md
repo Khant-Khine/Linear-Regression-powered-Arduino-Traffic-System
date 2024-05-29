@@ -26,10 +26,13 @@ Python
 ## How to install and run
 <ol>
   <li>
-    First, we will start off by purchasing the hardware components required in this project. The following items are to be used within this project,and links for purchase are provided.
+    First, we will start off by purchasing the hardware components required in this project. The following items are to be used within this project, and links for purchase are provided.
     <ul>
       <li>
         <a href="https://www.amazon.com/ATmega328P-Arduino-Compatible-Arduino-Voltage-Compatible/dp/B0CNH9D8VJ/ref=sr_1_5?crid=301KQH9GG8JPD&dib=eyJ2IjoiMSJ9.MazmhFfn-DF8W5oyX_S-tMmyamo23ZnK5izmXEoY4SOfPqgwi8JSG4-FEPokno20LZv03zfQbFBrypHp7Um6U6mwDdOrOkMl2Ac6f2FPei99js0rVjgCa9FqnsxgtiAH-d4-L6BTfAUsJKq2F09z6IARVX2FcwoUSJo4dWlLtuxf32HjaWEx9zM3BN8psAVWZdx-PVEN9n_1cSUszzuojIrZqbJ-CraA9VLVmE6XM4t5oxSxRSavowwq8OhPbTkqh5dMokyiav3mesFF8fyUeoeh_tgq3AEitnEVD0ZZE2k.t2Hit73Zz3B-NPn_m05W4vKW-4jQRrRoKmpqbqZZaUw&dib_tag=se&keywords=arduino+uno+r3&qid=1716607435&s=electronics&sprefix=arduino+uno+r3%2Celectronics%2C217&sr=1-5">Arduino Uno</a>
+      </li>
+      <li>
+        <a href="https://www.amazon.com/DEYUE-breadboard-Set-Prototype-Board/dp/B07LFD4LT6/ref=sr_1_3?crid=24ZV8GYXJCE5X&dib=eyJ2IjoiMSJ9.0XjhQpvsxVGvVwki4XDjTdziZtM7NtJzJKlf3z7Il1QmzRSz_j9yeoNHP2hXpFnmgeCc4MOwWlHv2ezk8d1UJuR5fH1-r-5-Q2f62ZiWHZz8mkZT27zlzVrO9uzGhQ1HCKFJpLOUruIqnFm-ZAPDkOTnRmZCbFvzN_L5GNxmUIXYXelAoI3YuUMhzgI9-B3D3ZKmKurZ67hhL97GEwuQRUQbhUPHR__oj6UCzMjmDsM.jK8x94-HZKVr9tUCIAAljNYZijbNrj7ZmfLcmO_7AGg&dib_tag=se&keywords=breadboard&qid=1717022815&sprefix=breadboard%2Caps%2C105&sr=8-3">Breadboard</a>
       </li>
       <li>
         <a href="https://www.amazon.com/MCIGICM-Circuit-Assorted-Science-Experiment/dp/B07PG84V17/ref=sr_1_3?dib=eyJ2IjoiMSJ9.b7ufUOS8MkW6Hm7aEmixGNbvN1ezApUaqucbPDD4HeBIzkA25YUIp5ZJJtzq8H9E9bTt3kPL8sVLBKUkVO8OdIYjwy73Q2Wu_cA3pTsKAZRSkMsvVRVd72OEFWMeK2EZiuMQ9TjT3A6DC63Unc4hQ5gkXPYISbbpKzKYiwy_E9yCHqWiUMTyWRbTZzIWk0hSPkRury-qObKYuiLQHOty-nGZwNI6WtHQo45LcWqt0Lo.UoAm4TrwEVEGWTLQbBMnPAa8sU4yNN58YdN0Nq0zAt0&dib_tag=se&keywords=led%2Barduino&qid=1716771681&sr=8-3&th=1">LEDs</a>
