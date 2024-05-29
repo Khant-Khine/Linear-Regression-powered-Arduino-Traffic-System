@@ -47,8 +47,24 @@ Python
 In addition, we will need to install Python IDLE to run the Python files. You can find the link <a href="https://www.python.org/downloads/">here</a>.
 ## Hardware Assembly
 <ol>
-  <li>Arduino Circuit Design</li>
-  <li>Assembling the circuit</li>
+  <h3><li>Circuit Design</li></h3>
+     <img src="https://github.com/Khant-Khine/Linear-Regression-powered-Arduino-Traffic-System/assets/155600182/3e85be32-5e0f-470b-984e-01f715013973"><br>
+  The above picture is how the circuit for our project will be constructed. On observing the image, we should be able to analyze the number and types of items needed for this circuit. The items required are:
+  <ul>
+    <li>1 Arduino Uno R3</li>
+    <li>1 Breadboard</li>
+    <li>2 Ultrasonic Sensors</li>
+    <li>10 LEDs (2 Red, 2 Yellow, 2 Green, 2 White, 2 Blue)</li>
+    <li>10 1kΩ Resistors</li>
+    <li>18 Jumper Wires</li>
+  </ul>
+  <br>
+  We will be simulating a traffic intersection, one traffic light for traffic from East to West, and one traffic light for traffic from North to South. Now, we shall begin assembling the circuit.<br>
+  <h3><li>Assembling the circuit</li></h3>
+  We will start off by connecting the ultrasonic sensors to the Arduino Uno R3.
+  <img src="https://github.com/Khant-Khine/Linear-Regression-powered-Arduino-Traffic-System/assets/155600182/19e2467f-3d45-415c-b969-442d8539af59">
+  <br>
+  The ultrasonic sensor has 4 connections. The pin labeled Vcc will be the 5V power supply for the ultrasonic function. The next two pins, labeled Trig and Echo, will be connected to digital pins on the Arduino Uno R3. 
 </ol>
 
 ## Uploading the Arduino code to Hardware
