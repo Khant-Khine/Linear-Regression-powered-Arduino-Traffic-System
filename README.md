@@ -48,6 +48,7 @@ In addition, we will need to install Python IDLE to run the Python files. You ca
 ## Hardware Assembly
 <ul>
   <li>Arduino Circuit Design</li>
+  <li>Assembling the circuit</li>
 </ul>
 ## Uploading the Arduino code to Hardware
 ## How to operate the Python code
