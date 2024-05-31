@@ -50,6 +50,7 @@ These links will provide you with ample components to develop your own Arduino p
 
 Software Installations:
 Python IDLE
+Arduino IDE
 
 ## Hardware Assembly
 <ol>
