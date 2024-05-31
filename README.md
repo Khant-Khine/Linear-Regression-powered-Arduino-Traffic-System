@@ -81,6 +81,7 @@ Arduino IDE
 </ol>
 
 ## How to operate the Python code
+Run on IDLE
 
 ## Streamlit on Python
 Display visualizer
