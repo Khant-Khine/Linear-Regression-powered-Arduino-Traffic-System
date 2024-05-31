@@ -49,6 +49,7 @@ Python
 These links will provide you with ample components to develop your own Arduino projects in the future. However, if you would only like to purchase only necessary components, I have provided two links which contains all the components <a href="https://www.amazon.com/ELEGOO-Starter-Tutorial-Compatible-Official/dp/B01DGD2GAO/ref=sr_1_6?crid=3HA2POT1HH3K8&dib=eyJ2IjoiMSJ9.3XHFL9OmzekFEUMRY5K2AiEfMKfKczWMZNuDBQjgbkdbusYGfNhLUab0ubEPpN2CLsRSw-cRDL4_KULt7OIQZDNIjd2qcE4-ZQxq7dEa6P8d0hv6g6nh9UwNwThDrS_mpLJVi3FaPxS7abQoR5vm1FJrcUsBoiRS7KjxF8tXK1E_BOcy5YTbJ7aT51VNsrbJSMBVe9jn7s0tVkjgiJHSKgTGALyGoVERbPqtfToR94I.3bnUYphXJdK9_Z7VPmYoaUG20kAgZY4alalE7r7ELxU&dib_tag=se&keywords=arduino+set&qid=1717023169&sprefix=arduino+set%2Caps%2C94&sr=8-6">here,</a> and <a href="https://www.amazon.com/WWZMDiB-HC-SR04-Ultrasonic-Distance-Measuring/dp/B0B1MJJLJP/ref=sr_1_4?crid=CM0CMPV2T2XB&dib=eyJ2IjoiMSJ9.E2SIkElJhtFWCJCHL5Q6YwwtxyRhETnroFHfs4vAAJODiudL5DQ5XWsGLO8SrIjE0JxzpGDVqTVQ1FoTTNDt5ypj1E1RjN3u0jCxepAAUDaZ2wISH9mwi1WyMutVsjsnBkZaNNhML0sVAGAq60QrYva7RS5xVlqkWqdUxB8uvGKKBdLYVTm4wGW1LOG6YB8zPKREUQlLvSuZoGjnAnR7OBhxXAZBVeKiLwFI33_dLE07kxqh5c5ikTs7o7z9yJG2mIEZUlMC1GL_3C4ON95tK140rRLV9TB0aALvfzprx7A.ZeX_KoRGiA3zarfbFBxXYorY068Lf4EB-m2S0UGTgpA&dib_tag=se&keywords=arduino+ultrasonic&qid=1717023250&sprefix=%2Caps%2C116&sr=8-4">here.</a><br><br>
 
 Software Installations:
+Python IDLE
 
 ## Hardware Assembly
 <ol>
