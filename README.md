@@ -86,4 +86,6 @@ Run on IDLE
 ## Streamlit on Python
 Display visualizer
 
+## Additions in the future
+
 
