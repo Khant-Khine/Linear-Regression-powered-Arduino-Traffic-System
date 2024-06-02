@@ -89,5 +89,6 @@ Display visualizer
 ## Additions in the future
 <ul>
   <li>License Plate Picture Recognition</li>
+  <li>Suspeded Or Criminal License Plates Database</li>
 </ul>
 The End
