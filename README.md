@@ -87,5 +87,7 @@ Run on IDLE
 Display visualizer
 
 ## Additions in the future
-
+<ul>
+  <li>License Plate Picture Recognition</li>
+</ul>
 The End
