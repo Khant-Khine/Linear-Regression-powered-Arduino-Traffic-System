@@ -84,6 +84,7 @@ Arduino IDE: <a href="https://www.arduino.cc/en/software">here</a>
 
 ## How to operate the Python code
 Run on IDLE
+Please have all necessary Python libraries installed.
 
 ## Streamlit on Python
 Display visualizer
