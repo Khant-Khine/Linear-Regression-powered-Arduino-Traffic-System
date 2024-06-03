@@ -79,6 +79,7 @@ Arduino IDE: <a href="https://www.arduino.cc/en/software">here</a>
   <li>Verifying the Program</li>
   Please press the verify button on the top left of the Arduino IDE screen.
   <li>Uploading the Program</li>
+  Please press the upload button on the top left of the Arduino IDE screen.
 </ol>
 
 ## How to operate the Python code
