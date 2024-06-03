@@ -87,6 +87,7 @@ Run on IDLE
 
 ## Streamlit on Python
 Display visualizer
+Please run the program to see the latest sensor reading in a more accessible user interface.
 
 ## Additions in the future
 <ul>
