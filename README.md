@@ -104,14 +104,16 @@ After completing the circuit set up, let's proceed to the software section of th
 </ol>
 
 ## How to operate the Python code
-To run the Python program, you have to have IDLE installed, which is provided within a link in the software installation section. Since Python IDLE has been installed, please download TrafficLightData.csv, and place it within the a folder. Then, please download SmartTrafficSystem.py and place it within the same folder as the csv data file. Now, open the Python file and you will be directed to Python IDLE. Please make sure you have Arduino IDE closed, and the Arduino R3 connected to the computer through the serial bus. Then, click the Run button on the toolbar located at the top of Python IDLE. Now, the software should run without any problems. 
+To run the Python program, you have to have IDLE installed, which is provided within a link in the software installation section. Since Python IDLE has been installed, please download TrafficLightData.csv, and place it within the a folder. Then, please download SmartTrafficSystem.py and place it within the same folder as the csv data file. Now, open the Python file and you will be directed to Python IDLE. Please make sure you have Arduino IDE closed, and the Arduino R3 connected to the computer through the serial bus. Then, please ensure that all Python modules necessary have been installed. The link for a tutorial on how to install Python modules are provided <a href="https://docs.python.org/3/installing/index.html">here.</a> The required Python modules are:
+<ul>
+  <li>numpy</li>
+  <li>pandas</li>
+  <li>sklearn</li>
+  <li>pickle</li>
+  <li>time</li>
+</ul>
+Then, click the Run button on the toolbar located at the top of Python IDLE. Now, the software should run without any problems. 
 <img src="https://github.com/Khant-Khine/Linear-Regression-powered-Arduino-Traffic-System/assets/155600182/6d88e5ef-8807-4b97-bf91-f51ab5200e4e">
-
-Please have all necessary Python libraries installed.
-
-## Streamlit on Python
-Display visualizer
-Please run the program to see the latest sensor reading in a more accessible user interface.
 
 ## Additions in the future
 <ul>
