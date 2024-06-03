@@ -123,5 +123,4 @@ In the future, additional functioanlities will be added for a better policing of
   <li>Drone Tracking System to allow a drone to track a vehicle if there is a match within the criminal license plates database</li>
   <li>Police Alerting System for Flagged License Plates which allows the police to track the drone and apprehend criminals, as well as responding to amber alerts</li>
 </ul>
-_______________________________________________________________________________________________________________________________________________________<br>
 <h4>This brings me to the end of my project. I hope you all enjoy using it, and thank you. Have a great day!</h4>
