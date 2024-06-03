@@ -117,9 +117,10 @@ Then, click the Run button on the toolbar located at the top of Python IDLE. Now
 
 ## Additions in the future
 <ul>
-  <li>License Plate Picture Recognition</li>
-  <li>Suspeded Or Criminal License Plates Database</li>
-  <li>Drone Tracking System</li>
-  <li>Police Alerting System for Flagged License Plates</li>
+In the future, additional functioanlities will be added for a better policing of traffic intersections and for community safety. These additions will contain image recognition, license plate database access, active drone tracking. These functions are described in a little more detail down below:<br><br>
+  <li>License Plate Picture Recognition integrated into traffic camera using Python, aided with image recognition based on neural networks</li>
+  <li>Suspeded Or Criminal License Plates Database, to comapare camera captured license plates and cross reference for any matches </li>
+  <li>Drone Tracking System to allow a drone to track a vehicle if there is a match within the criminal license plates database</li>
+  <li>Police Alerting System for Flagged License Plates which allows the police to track the drone and apprehend criminals, as well as responding to amber alerts</li>
 </ul>
 The End
