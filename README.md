@@ -124,3 +124,4 @@ In the future, additional functioanlities will be added for a better policing of
   <li>Police Alerting System for Flagged License Plates which allows the police to track the drone and apprehend criminals, as well as responding to amber alerts</li>
 </ul>
 <h4>This brings me to the end of my project. I hope you all enjoy using it, and thank you. Have a great day!</h4>
+<h4>***** This project is open-source, and can be used without the consent of the original publisher. Enjoy!*****</h4>
